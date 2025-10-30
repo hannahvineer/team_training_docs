@@ -2,11 +2,8 @@
 ## Using Git, Github and RStudio
 
 author: Hannah Vineer
-date: 13-06-2024
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+date: 13-06-2024
 
 ## Why the **** did I do that?
 
