@@ -2,7 +2,7 @@
 title: "Documenting computational projects"
 subtitle: "Using Git, Github and RStudio"
 author: Hannah Vineer
-date: June 13, 2024
+date: 13/06/2024
 output: md_document:
     variant: markdown_github
 ---
