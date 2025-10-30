@@ -3,10 +3,8 @@ title: "Documenting computational projects"
 subtitle: "Using Git, Github and RStudio"
 author: "Hannah Vineer hannahvineer@gmail.com"
 date: "2024-06-13"
-output: 
-  prettydoc::html_pretty:
-    theme: leonids
-    highlight: github
+output: md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
