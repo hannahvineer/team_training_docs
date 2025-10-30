@@ -18,8 +18,8 @@ You will now have a new .bib file in your left hand pane. Click on the file and 
 ### Editing your references
 If you find an error with your references within Overleaf, or want to add more references, DO NOT directly edit the .bib file. Make your changes in Mendeley and then 1) sync Mendeley with Mendeley Web, and 2) refresh your .bib file within Overleaf. 
 
-### Citations
-There are many ways to add citations in Overleaf. I like natbib <https://www.overleaf.com/learn/latex/Bibliography_management_with_natbib> 
+### Citations and Bibliography
+There are many ways to add citations in Overleaf. I like natbib <https://www.overleaf.com/learn/latex/Bibliography_management_with_natbib>. If you're using a journal template for your Overleaf project, they will usually specify how to include citations and a reference list. 
 
 ### To do
 1) Work out how to italicise species names automatically
