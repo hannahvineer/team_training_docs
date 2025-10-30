@@ -1,11 +1,8 @@
----
-title: "Documenting computational projects"
-subtitle: "Using Git, Github and RStudio"
+# Documenting computational projects
+## Using Git, Github and RStudio
+
 author: Hannah Vineer
 date: 13-06-2024
-output: md_document:
-    variant: markdown_github
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
