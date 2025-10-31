@@ -21,5 +21,10 @@ If you find an error with your references within Overleaf, or want to add more r
 ### Citations and Bibliography
 There are many ways to add citations in Overleaf. I like natbib <https://www.overleaf.com/learn/latex/Bibliography_management_with_natbib>. If you're using a journal template for your Overleaf project, they will usually specify how to include citations and a reference list. 
 
-### To do
-1) Work out how to italicise species names automatically
+### Italicising species names within paper titles in the bibliography
+I have not found a good way to do this with the dyanmic link to the .bib file, so this is my workaround...
+
+- Once you've finished your bibliography, make a copy within your Overleaf project
+- Make sure you point to the new (fixed) copy in your .tex file
+- Edit the fixed .bib file to use \emph{} to italicise species' names
+- If you then need to add a reference to your fixed file, you can add it to your dynamic .b. and then copy it over manually to the fixed one. So the above steps are best done when your bibliography is finalised (i.e. ready for submission).
